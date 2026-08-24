@@ -1,0 +1,69 @@
+MIT License
+
+Copyright (c) 2026-present Omid Jalilian
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+
+ADDITIONAL INFORMATION:
+
+Third-Party Libraries
+This software may use third-party libraries and components. Each third-party
+library may have its own license. Please refer to the respective license files
+in the third-party libraries directory or their official repositories.
+
+Disclaimer of Warranties
+The software is provided on an "as-is" basis. The author makes no warranties,
+express or implied, regarding the software, including but not limited to:
+- Merchantability
+- Fitness for a particular purpose
+- Non-infringement of intellectual property rights
+- Compatibility with specific systems or environments
+
+Limitation of Liability
+In no event shall the author be liable for any damages whatsoever (including,
+without limitation, damages for loss of business profits, business interruption,
+loss of business information, or any other pecuniary loss) arising out of the
+use or inability to use this software, even if advised of the possibility of
+such damages.
+
+Web Crawling Disclaimer
+When using this software to crawl web resources:
+- Comply with all applicable laws and regulations
+- Respect the terms of service of the websites being crawled
+- Honor robots.txt and crawling policies
+- Do not overload servers with excessive requests
+- Obtain proper authorization if required
+- Respect copyright and intellectual property rights
+- Assume full responsibility for any content accessed or modified
+
+The author is not responsible for any misuse of this software or any damages
+resulting from its use in violation of applicable laws or terms of service.
+
+Support and Contributions
+This is an open-source project provided free of charge. While best efforts
+are made to maintain and support the software, there is no guarantee of
+continuous support or updates.
+
+Contributions are welcome and encouraged under the terms of this MIT License.
+
+================================================================================
+
+For more information about the MIT License, visit: https://opensource.org/licenses/MIT
